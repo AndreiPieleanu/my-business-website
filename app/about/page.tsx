@@ -6,14 +6,8 @@ export default function About() {
     {
       name: 'Andrei Pieleanu',
       role: 'CEO & Founder',
-      image: '/team/andrei.jpg', // Replace with your actual image paths
+      image: '/team/andrei.jpg', 
       bio: 'Andrei is an experienced software engineer with knowledge spanning across multiple fields.',
-    },
-    {
-      name: 'Chantel Madlala',
-      role: 'Head of Design',
-      image: '/team/chantel.jpg', // Replace with your actual image paths
-      bio: 'Creative mind dedicated to exceptional user experiences.',
     },
   ];
 
